@@ -1,2 +1,11 @@
 # pyshell
-Un simple shell creado en Python
+🍩
+
+# Requerimentos
+* Python3 instalado
+* Linux
+
+# Run
+```
+python main.py
+```
